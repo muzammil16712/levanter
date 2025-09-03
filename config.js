@@ -29,8 +29,8 @@ module.exports = {
         }),
   PREFIX: (process.env.PREFIX || '^[.,!]').trim(),
   SUDO: process.env.SUDO || '',
-  HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,
-  HEROKU_API_KEY: process.env.HEROKU_API_KEY,
+  HEROKU_APP_NAME: process.env.HEROKU_APP_NAME,lyfe
+  HEROKU_API_KEY: process.env.HEROKU_API_KEY,HRKU-AAlMzh21BusQUAxSOsI_lK8J70c0dIQ1e-uyJWREwhLg_____wh4anP0Ffv3
   BRANCH: 'master',
   STICKER_PACKNAME: process.env.STICKER_PACKNAME || '❤️,LyFE',
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE,
